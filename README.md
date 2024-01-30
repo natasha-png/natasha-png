@@ -8,13 +8,23 @@
 [![Instagram Badge](https://img.shields.io/badge/-@[instagram]-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_[instagram]/)](https://instagram.com/_[instagram])
 [![Gmail Badge](https://img.shields.io/badge/-[email]-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:[email])](mailto:[email]) -->
 
-Hi there, welcome! I'm Natasha, a developer+designer based in ATL! I am currently studying Computational Media @[georgiatech], and have SWE'd @[NCR]. Take a look around, and I'm always down to chat [here](https://www.linkedin.com/in/natashavalluri/)!
+Hi there, welcome! I'm Natasha, a developer+designer based in ATL! I am currently studying Computational Media @georgiatech, and have SWE'd @NCR. Take a look around, and I'm always down to chat [here](https://www.linkedin.com/in/natashavalluri/)!
 
 ## Currently working on...
+- getting initial sprints up and running for Bits of Good
+- documenting and editing all my projects from the last week
+- researching the intersections between design, education, culture and accessibility
+- increasing my leetcode+duolingo daily streak
 
 ## Currently learning...
+- to play with data in my Information Design course
+- to get a scheduler app done for Objects and Design
+- to build virtual reality spaces in Mixed Reality Design
+- to enjoy math again in my Multivariable Calculus class
 
 ## Currently streaming...
+- Stray Kids' Rock-Star album
+- Jane The Virgin on Netflix
 
 <!--
 **natasha-png/natasha-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
