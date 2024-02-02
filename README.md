@@ -25,7 +25,7 @@ Hi there, welcome! I'm Natasha, a developer+designer based in ATL! I am currentl
 ## Currently streaming...
 - Stray Kids' Rock-Star album
 - Jane The Virgin on Netflix
-- my february '24 playlist, made with love and recommendations from friends and random YouTubers [here](https://open.spotify.com/embed/playlist/5qxhmsSkZ6d12ngFf4u9OW?utm_source=generator)
+- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ku74er9acsmv7o3ad13502jq6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **natasha-png/natasha-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
