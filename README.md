@@ -8,23 +8,24 @@
 [![Instagram Badge](https://img.shields.io/badge/-@[instagram]-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_[instagram]/)](https://instagram.com/_[instagram])
 [![Gmail Badge](https://img.shields.io/badge/-[email]-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:[email])](mailto:[email]) -->
 
-Hi there, welcome! I'm Natasha, a developer+designer based in ATL! I am currently studying Computational Media @georgiatech, and have SWE'd @NCR. Take a look around, and I'm always down to chat [here](https://www.linkedin.com/in/natashavalluri/)!
+Hi there, welcome! I'm Natasha, a developer+designer based in ATL! I am currently studying Computational Media @georgiatech, and I have a keen interest in community, collaboration and creativity! I'm researching design collaboration, and presenting my work at ACM SIGDOC this October- yippie! I'm a big fan of education, and I am currently TAing for Educational Technology at Tech! I have SWE'd @NCR, and love debugging (!!). Take a look around, and I'm always down to chat [here](https://www.linkedin.com/in/natashavalluri/)!
 
 ## Currently working on...
-- getting initial sprints up and running for Bits of Good
 - documenting and editing all my projects from the last week
-- researching the intersections between design, education, culture and accessibility
-- increasing my leetcode+duolingo daily streak
+- preparing for RenderATL in June!
+- getting initial sprints up and running for Bits of Good
+- researching the intersections between design, education, culture and collaboration
+  
 
 ## Currently learning...
-- to play with data in my Information Design course
-- to get a scheduler app done for Objects and Design
-- to build virtual reality spaces in Mixed Reality Design
-- to enjoy math again in my Multivariable Calculus class
+- to mess with data in a creative projected inspired by Dear Data
+- to develop an app for my organization inspired by Wordle
+- to finally (finally) play the guitar
 
 ## Currently streaming...
-- Stray Kids' Rock-Star album
-- Jane The Virgin on Netflix
+- Haikyuu! season 4
+- Suits on Netflix
+- my June playlist
 - [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ku74er9acsmv7o3ad13502jq6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **natasha-png/natasha-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
