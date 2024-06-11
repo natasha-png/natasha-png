@@ -10,6 +10,8 @@
 
 Hi there, welcome! I'm Natasha, a developer+designer based in ATL! I am currently studying Computational Media @georgiatech, and I have a keen interest in community, collaboration and creativity! I'm researching design collaboration, and presenting my work at ACM SIGDOC this October- yippie! I'm a big fan of education, and I am currently TAing for Educational Technology at Tech! I have SWE'd @NCR, and love debugging (!!). Take a look around, and I'm always down to chat [here](https://www.linkedin.com/in/natashavalluri/)!
 
+My alter ego github profile is [@minimatime](https://www.github.com/minimatime), check out more project there!
+
 ## Currently working on...
 - documenting and editing all my projects from the last week
 - preparing for RenderATL in June!
